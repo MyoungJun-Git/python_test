@@ -25,21 +25,3 @@ plt.title('TEST')
 plt.xlabel('year')
 plt.ylabel('people')
 plt.show()
-
-
-
-
-
-
-
-
-
-# python
-
-# string (문자열) -> 원명주
-
-# print("원명주")
-
-# value = "4 5"
-# print(value.strip().split(' '))
-# [4, 5]
